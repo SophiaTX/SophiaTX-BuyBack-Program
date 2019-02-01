@@ -1,7 +1,10 @@
 # SophiaTX Buyback instructions, February 2019.
+
+**ETH buyback address : 0xBFEd0249222897bEEaA344b07B98f322f6FcD907**
+
 The following guide will provide SophiaTX Buyback instructions for anyone using a MyEtherWallet (MEW) or Meta Mask account.
 
-Before conducing the buyback procedure, make sure your Ethereum address is in the SophiaTX's Github **"buyback_mappings"** file, which can be accessed following this [link](https://github.com/SophiaTX/BuyBack).
+Before conducing the buyback procedure, make sure your Ethereum address is in the SophiaTX's Github [buyback_mappings](buyback_mappings.txt) file, which can be accessed following this [link](https://github.com/SophiaTX/BuyBack).
 
 Once you've confirmed that your address is in the file, you can proceed to the buyback procedure. In case you did not find your Ethereum and SophiaTX addresses in this file, don't worry; we have created a third process via which You can also participate in the buyback.
 
@@ -13,7 +16,7 @@ Once you've confirmed that your address is in the file, you can proceed to the b
 4. When entering the **"Gas Limit,"** We advise using approximately ‘55000'
 5. When all the information is filled in, click on **“Generate Transaction.”** A pop-up window will appear asking You to confirm your transaction. To proceed, click **“Yes, I am sure! Make Transaction.”**
 
-After completing the buyback transfer process, users can make sure they have successfully applied for the process by accessing the **"buyback_transfers"** file on the SophiaTX Github page. Your SophiaTX Address and the token amount applied for the buyback will show up in the file 24 hours later.
+After completing the buyback transfer process, users can make sure they have successfully applied for the process by accessing the [buyback_transfers](buyback_transfers.txt) file on the SophiaTX Github page. Your SophiaTX Address and the token amount applied for the buyback will show up in the file 24 hours later.
 
 ## Buyback via Meta Mask
 
@@ -22,11 +25,11 @@ After completing the buyback transfer process, users can make sure they have suc
 Again, when choosing the amount of tokens to send, users can click on **"Max"** to send all the tokens available on the account, or simply type in a desired amount to send.
 3. Click **“Next,”** and confirm your transaction. 
     
-After confirming the transaction, you can access the **"buyback_transfers"** file on SophiaTX's Github account, where the mount of tokens and your SophiaTX Address will appear 24 hours later.
+After confirming the transaction, you can access the [buyback_transfers](buyback_transfers.txt) file on SophiaTX's Github account, where the mount of tokens and your SophiaTX Address will appear 24 hours later.
 
 The buyback procedure for both Meta Mask and MEW users will be completed on March 1st. However, since all buyback tokens will be vested, users will be able to access their tokens 27 days after they received them.
 
-## Alternative method for users who did not find their SophiaTX or Ethereum address listed in the "buyback_mappings" file on Github.
+## Alternative method for users who did not find their SophiaTX or Ethereum address listed in the [buyback_mappings](buyback_mappings.txt) file on Github.
 
 **IMPORTANT!** In order to proceed with this method, users need to have a valid SophiaTX Wallet account.
 
@@ -38,6 +41,6 @@ The buyback procedure for both Meta Mask and MEW users will be completed on Marc
 6. In the String to Hex converter, put in your SophiaTX Wallet account in the top field, and click **"Convert."** After this, copy the encoded string from the bottom field and paste it in the **"Data"** field on the MyEtherWallet page.
 7. Complete the transaction.
 
-24 hours after this transaction is successfully completed, your address will appear in the **"buyback_mappings"** file on the SophiaTX Github page. When you have confirmed that your address is in the file, you can proceed to swap your tokens using the first method via MyEtherWallet. 
+24 hours after this transaction is successfully completed, your address will appear in the [buyback_mappings](buyback_mappings.txt) file on the SophiaTX Github page. When you have confirmed that your address is in the file, you can proceed to swap your tokens using the first method via MyEtherWallet. 
 
 Enjoy your new SPHTX Tokens!
