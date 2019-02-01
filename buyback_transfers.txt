@@ -1,1 +1,15 @@
 sphtx_address;amount
+0x7bfaccb928c10c3657;292.97638
+ouanling;797.211134
+0xf0095ee49d7b8f1c2b;2992.85
+0xac243a4b68488be23d;9.598045
+logophilia;32.182341
+0xcedce23deace;540.255
+actyper;33.028325
+kevinseagull;87516.235184
+benflex;2500.0
+0xbfd83c36d9fd4cf436;1815.7
+0xb5a20f9d8dd9543ba0;145.22942
+samsamyeah;3306.167715
+dale;4445.321996
+thirstydreamer;1756.067832
