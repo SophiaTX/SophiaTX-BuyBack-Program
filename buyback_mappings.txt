@@ -1,4 +1,4 @@
-eth_address sphtx_address
+eth_address sphtx_account
 0x7a7b6aafd46beb765848337568b46fa9235bc78c lenaltman
 0xb9c88624c8b59990645b28fa34a18d551549f441 0xb9c88624c8b5999064
 0xfc9c1fc04b84875ef46fff184785478f051d5e30 0xfc9c1fc04b84875ef4
