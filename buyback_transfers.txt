@@ -32,7 +32,7 @@ sophiatxkuba;539.09085
 kaandsophia;206.90419
 molson;457.459579
 0x0ec07259e0cec1a489;118.45
-llpg;0.5
+llpg;672.790763
 0x32b7411932fc089b73;59.5472
 aAdqfHx1PZ7mOSS9KPZxVR6QBug;134.718534
 0xdc54e681ab6892b784;101.058292
@@ -144,3 +144,6 @@ sanchan;230.87854
 wietskevdw;552.343497
 guysophiatx;2152.751456
 sphtxjtl;114.706225
+ICltaWwUErtDkYCVyR4Lg6KwJSg;1.0
+nessgorsphtx;650.0465
+wissy;291.350168
