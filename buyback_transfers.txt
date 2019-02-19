@@ -168,3 +168,7 @@ sophiatxdavid;762.391541
 newshptx;632.0
 idahosk;39697.705966
 0xbbb3b5011347c64b3d;549.25
+frenchmedium;249.599835
+0x0a2278692568548a46;2054.7
+AfdTm1P0BjqedbMXY28paXYvZfo;713.628385
+sphtxcontract;15821.129318
