@@ -172,3 +172,11 @@ frenchmedium;249.599835
 0x0a2278692568548a46;2054.7
 AfdTm1P0BjqedbMXY28paXYvZfo;713.628385
 sphtxcontract;15821.129318
+mades;1049.946348
+frank;20.2
+0x6d2a01956074a1c5c4;1205.6735
+scottchesley;149.632885
+seanb;38.95
+matts;0.888979
+bbruijnsophiatx;150.0
+myantonsophiatx;56.489188
