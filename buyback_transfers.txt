@@ -180,3 +180,7 @@ seanb;38.95
 matts;0.888979
 bbruijnsophiatx;150.0
 myantonsophiatx;56.489188
+youngsandwich;162.34951
+0x1ca5a1b01264d9cd1e;13462.237128
+0x605c376002b4300de4;400.0
+0x159d6cb8cd42df8ca9;65.0
