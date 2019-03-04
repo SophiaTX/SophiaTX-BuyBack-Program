@@ -1,2 +1,4 @@
 sphtx_account;amount
 srisophiatxlit;20653.963461
+aleaco;32.115798
+cryptodavysphtx;277.425395
