@@ -1,3 +1,4 @@
 sphtx_account;amount
 satudarah;528.95
 0x2d5869dbb5e5a715ef;20.542155
+0xd27f4afc132208b456;39.912776
