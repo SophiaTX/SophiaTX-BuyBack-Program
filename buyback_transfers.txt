@@ -6,3 +6,4 @@ sphtx_account;amount
 ckm;1154.499945
 rkm;120427.845
 0x8776eae63f205c54d2;1995.0
+freiburggingin;182.607139
